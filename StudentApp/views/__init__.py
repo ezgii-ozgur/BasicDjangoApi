@@ -1,1 +1,2 @@
-from .department_view import Departments
+from .department_view import DepartmentTransactionView
+from .student_view import StudentTransactionView
